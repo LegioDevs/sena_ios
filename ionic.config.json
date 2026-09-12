@@ -1,0 +1,8 @@
+{
+  "name": "Sena",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ecffb8a3"
+}

@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.senaemocional.app",
+    "sha256_cert_fingerprints": [
+      "35:0A:DC:86:18:90:3D:77:36:B6:BD:24:6B:8E:6B:06:5E:50:DC:79:28:64:49:B9:13:65:26:D9:7B:72:BE:50"
+    ]
+  }
+}]
