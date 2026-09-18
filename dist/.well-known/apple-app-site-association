@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "REPLACE_WITH_YOUR_TEAM_ID.com.senaemocional.app",
+      "paths": ["*"]
+    }]
+  }
+}
